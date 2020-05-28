@@ -1,0 +1,1436 @@
+<svg class="notselectable" height="7000" id="svg_network_image" width="7000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ABCA4" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3561.6" cy="3500.0" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3561.6" cy="3500.0" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3561.6" cy="3500.0" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3691.6" y="3500.0">ABCA4</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3691.6" y="3500.0">ABCA4</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RHO" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3438.4000071023256" cy="3500.0089188563325" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3438.4000071023256" cy="3500.0089188563325" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3438.4000071023256" cy="3500.0089188563325" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3308.400008464932" y="3500.027741120046">RHO</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3308.400008464932" y="3500.027741120046">RHO</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="BEST1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5029" cy="3500" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5029" cy="3500" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5029" cy="3500" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5159.0" y="3500.0">BEST1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5159.0" y="3500.0">BEST1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="C8orf37" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5019" cy="3677" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5019" cy="3677" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5019" cy="3677" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5148.126326747587" y="3692.0463198382636">C8orf37</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5148.126326747587" y="3692.0463198382636">C8orf37</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CERKL" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4988" cy="3852" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4988" cy="3852" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4988" cy="3852" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5114.508460868008" y="3881.9267326784534">CERKL</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5114.508460868008" y="3881.9267326784534">CERKL</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CLRN1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4937" cy="4023" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4937" cy="4023" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4937" cy="4023" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5059.160729929549" y="4067.4607249500027">CLRN1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5059.160729929549" y="4067.4607249500027">CLRN1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CRB1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4867" cy="4186" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4867" cy="4186" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4867" cy="4186" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4983.190413920804" y="4244.307698573279">CRB1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4983.190413920804" y="4244.307698573279">CRB1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="EYS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4778" cy="4340" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4778" cy="4340" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4778" cy="4340" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4886.635024003924" y="4411.4033021622035">EYS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4886.635024003924" y="4411.4033021622035">EYS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="FAM161A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4672" cy="4482" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4672" cy="4482" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4672" cy="4482" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4771.645400137568" y="4565.491282367826">FAM161A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4771.645400137568" y="4565.491282367826">FAM161A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="FSCN2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4550" cy="4612" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4550" cy="4612" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4550" cy="4612" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4639.25107498022" y="4706.521138455242">FSCN2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4639.25107498022" y="4706.521138455242">FSCN2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IMPG2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4414" cy="4726" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4414" cy="4726" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4414" cy="4726" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4491.700436927099" y="4830.223999641819">IMPG2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4491.700436927099" y="4830.223999641819">IMPG2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RDH12" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4265" cy="4824" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4265" cy="4824" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4265" cy="4824" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4330.037504133043" y="4936.561641140063">RDH12</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4330.037504133043" y="4936.561641140063">RDH12</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SEMA4A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4106" cy="4904" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4106" cy="4904" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4106" cy="4904" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4157.517140191253" y="5023.356542621319">SEMA4A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4157.517140191253" y="5023.356542621319">SEMA4A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SPATA7" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3939" cy="4964" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3939" cy="4964" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3939" cy="4964" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3976.339618210409" y="5088.522098086649">SPATA7</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3976.339618210409" y="5088.522098086649">SPATA7</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="TULP1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3767" cy="5006" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3767" cy="5006" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3767" cy="5006" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3789.693910231697" y="5134.003853216986">TULP1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3789.693910231697" y="5134.003853216986">TULP1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="USH2A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3590" cy="5026" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3590" cy="5026" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3590" cy="5026" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3597.653803708098" y="5155.7744939839795">USH2A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3597.653803708098" y="5155.7744939839795">USH2A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRCD" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3412" cy="5026" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3412" cy="5026" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3412" cy="5026" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3404.515710693824" y="5155.784380468458">PRCD</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3404.515710693824" y="5155.784380468458">PRCD</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPF3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3236" cy="5006" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3236" cy="5006" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3236" cy="5006" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3213.5534335516695" y="5134.047458602975">PRPF3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3213.5534335516695" y="5134.047458602975">PRPF3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RP1L1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3063" cy="4965" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3063" cy="4965" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3063" cy="4965" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3025.8398543190187" y="5089.57577442251">RP1L1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3025.8398543190187" y="5089.57577442251">RP1L1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RPGR" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2896" cy="4905" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2896" cy="4905" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2896" cy="4905" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2844.657153621042" y="5024.431621129861">RPGR</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2844.657153621042" y="5024.431621129861">RPGR</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ZNF513" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2737" cy="4825" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2737" cy="4825" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2737" cy="4825" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2672.1268822276925" y="4937.656462710757">ZNF513</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2672.1268822276925" y="4937.656462710757">ZNF513</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="C2orf71" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2588" cy="4727" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2588" cy="4727" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2588" cy="4727" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2510.4497022584205" y="4831.335762422059">C2orf71</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2510.4497022584205" y="4831.335762422059">C2orf71</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IMPDH1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2452" cy="4613" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2452" cy="4613" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2452" cy="4613" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2362.8813711606344" y="4707.646024712036">IMPDH1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2362.8813711606344" y="4707.646024712036">IMPDH1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PROM1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2330" cy="4484" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2330" cy="4484" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2330" cy="4484" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2230.508640969625" y="4567.674784005034">PROM1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2230.508640969625" y="4567.674784005034">PROM1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ARL3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2224" cy="4342" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2224" cy="4342" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2224" cy="4342" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2115.494522501233" y="4413.600009446679">ARL3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2115.494522501233" y="4413.600009446679">ARL3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="BBS2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2135" cy="4188" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2135" cy="4188" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2135" cy="4188" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2018.9121685750458" y="4246.5116688793905">BBS2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2018.9121685750458" y="4246.5116688793905">BBS2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CNGA1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2064" cy="4025" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2064" cy="4025" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2064" cy="4025" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1941.9039952442042" y="4069.638163298602">CNGA1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1941.9039952442042" y="4069.638163298602">CNGA1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CRX" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2013" cy="3855" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2013" cy="3855" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2013" cy="3855" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1886.553463094694" y="3885.1873036996526">CRX</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1886.553463094694" y="3885.1873036996526">CRX</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="GUCA1B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1982" cy="3680" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1982" cy="3680" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1982" cy="3680" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1852.9044077409417" y="3695.307777738228">GUCA1B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1852.9044077409417" y="3695.307777738228">GUCA1B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="LRAT" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1971" cy="3502" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1971" cy="3502" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1971" cy="3502" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1841.0001112135799" y="3502.170045636084">LRAT</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1841.0001112135799" y="3502.170045636084">LRAT</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="BBS1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1981" cy="3325" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1981" cy="3325" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1981" cy="3325" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1851.8542338520322" y="3310.121455512907">BBS1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1851.8542338520322" y="3310.121455512907">BBS1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MERTK" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2012" cy="3150" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2012" cy="3150" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2012" cy="3150" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1885.4535377920092" y="3120.234367088174">MERTK</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1885.4535377920092" y="3120.234367088174">MERTK</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="NEUROD1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2062" cy="2980" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2062" cy="2980" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2062" cy="2980" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1939.7476196170462" y="2935.791906954704">NEUROD1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1939.7476196170462" y="2935.791906954704">NEUROD1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="NRL" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2132" cy="2816" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2132" cy="2816" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2132" cy="2816" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2015.7244651700107" y="2757.8622325850056">NRL</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2015.7244651700107" y="2757.8622325850056">NRL</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PDE6A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2221" cy="2662" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2221" cy="2662" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2221" cy="2662" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2112.261397059694" y="2590.7545353682744">PDE6A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2112.261397059694" y="2590.7545353682744">PDE6A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PDE6B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2327" cy="2519" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2327" cy="2519" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2327" cy="2519" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2227.2777248649254" y="2435.6005525085184">PDE6B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2227.2777248649254" y="2435.6005525085184">PDE6B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="AKAP9" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2343.850815103471" cy="2278.995230212411" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2343.850815103471" cy="2278.995230212411" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2343.850815103471" cy="2278.995230212411" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2254.4681409936156" y="2184.598527044497">AKAP9</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2254.4681409936156" y="2184.598527044497">AKAP9</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PDE6G" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2584" cy="2275" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2584" cy="2275" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2584" cy="2275" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2506.149662112948" y="2170.8879214938443">PDE6G</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2506.149662112948" y="2170.8879214938443">PDE6G</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPF31" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2733" cy="2177" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2733" cy="2177" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2733" cy="2177" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2667.79827702782" y="2064.533403530386">PRPF31</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2667.79827702782" y="2064.533403530386">PRPF31</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPH2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2891" cy="2097" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2891" cy="2097" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2891" cy="2097" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2839.237098422433" y="1977.7498342966721">PRPH2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2839.237098422433" y="1977.7498342966721">PRPH2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RBP3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3058" cy="2036" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3058" cy="2036" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3058" cy="2036" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3020.4264631410047" y="1911.548285154821">RBP3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3020.4264631410047" y="1911.548285154821">RBP3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RCVRN" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3231" cy="1995" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3231" cy="1995" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3231" cy="1995" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3208.1266164174635" y="1867.0280955698238">RCVRN</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3208.1266164174635" y="1867.0280955698238">RCVRN</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="INS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3397.7495255673234" cy="1821.3800841214672" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3397.7495255673234" cy="1821.3800841214672" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3397.7495255673234" cy="1821.3800841214672" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3389.8454316681396" y="1691.6205939111828">INS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3389.8454316681396" y="1691.6205939111828">INS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RGR" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3585" cy="1973" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3585" cy="1973" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3585" cy="1973" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3592.2252260269893" y="1843.200939491617">RGR</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3592.2252260269893" y="1843.200939491617">RGR</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RLBP1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3762" cy="1994" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3762" cy="1994" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3762" cy="1994" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3784.2815307092415" y="1865.9237204270319">RLBP1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3784.2815307092415" y="1865.9237204270319">RLBP1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ROM1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3935" cy="2034" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3935" cy="2034" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3935" cy="2034" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3971.9806867922484" y="1909.3708348564687">ROM1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3971.9806867922484" y="1909.3708348564687">ROM1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RP1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4102" cy="2094" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4102" cy="2094" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4102" cy="2094" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4153.168472537924" y="1974.4935674612625">RP1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4153.168472537924" y="1974.4935674612625">RP1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SAG" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4261" cy="2174" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4261" cy="2174" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4261" cy="2174" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4325.708564861136" y="2061.2489395455095">SAG</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4325.708564861136" y="2061.2489395455095">SAG</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="STAT3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4500.972427797015" cy="2148.1080662503973" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4500.972427797015" cy="2148.1080662503973" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4500.972427797015" cy="2148.1080662503973" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4578.330599579318" y="2043.6297754024908">STAT3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4578.330599579318" y="2043.6297754024908">STAT3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CNGB1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4546" cy="2385" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4546" cy="2385" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4546" cy="2385" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4634.943455544207" y="2290.1893375413097">CNGB1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4634.943455544207" y="2290.1893375413097">CNGB1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="NR2E3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4668" cy="2514" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4668" cy="2514" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4668" cy="2514" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4767.336930791061" y="2430.1419402739843">NR2E3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4767.336930791061" y="2430.1419402739843">NR2E3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RP9" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4775" cy="2656" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4775" cy="2656" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4775" cy="2656" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4883.401403687949" y="2584.2425217940163">RP9</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4883.401403687949" y="2584.2425217940163">RP9</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ALB" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4864" cy="2810" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4864" cy="2810" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4864" cy="2810" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4980.002115170859" y="2751.318578102718">ALB</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4980.002115170859" y="2751.318578102718">ALB</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="AKT1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5078.521030722614" cy="2920.2731212727485" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5078.521030722614" cy="2920.2731212727485" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5078.521030722614" cy="2920.2731212727485" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5200.551551861421" y="2875.4562504472296">AKT1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5200.551551861421" y="2875.4562504472296">AKT1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="GAPDH" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5135.669703253586" cy="3107.2826465917387" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5135.669703253586" cy="3107.2826465917387" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5135.669703253586" cy="3107.2826465917387" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5262.07730519045" y="3076.9327178838926">GAPDH</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5262.07730519045" y="3076.9327178838926">GAPDH</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPF8" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5169.80990875275" cy="3299.7746987821356" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5169.80990875275" cy="3299.7746987821356" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5169.80990875275" cy="3299.7746987821356" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5298.8852861383375" y="3284.297394340852">PRPF8</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5298.8852861383375" y="3284.297394340852">PRPF8</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IDH3B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5573" cy="3500" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5573" cy="3500" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5573" cy="3500" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5703.0" y="3500.0">IDH3B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5703.0" y="3500.0">IDH3B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="TOPORS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5560" cy="3728" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5560" cy="3728" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5560" cy="3728" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5689.210993163077" y="3742.3010225442627">TOPORS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5689.210993163077" y="3742.3010225442627">TOPORS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MAK" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5523" cy="3953" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5523" cy="3953" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5523" cy="3953" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5649.858410904126" y="3981.406752416989">MAK</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5649.858410904126" y="3981.406752416989">MAK</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ARAP2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5461" cy="4173" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5461" cy="4173" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5461" cy="4173" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5583.960326107495" y="4215.199030836484">ARAP2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5583.960326107495" y="4215.199030836484">ARAP2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="DHDDS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5375" cy="4384" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5375" cy="4384" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5375" cy="4384" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5492.586605761273" y="4439.438165062915">DHDDS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5492.586605761273" y="4439.438165062915">DHDDS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MVK" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5266" cy="4585" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5266" cy="4585" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5266" cy="4585" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5376.765082571321" y="4653.052160016921">MVK</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5376.765082571321" y="4653.052160016921">MVK</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ZNF408" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5136" cy="4773" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5136" cy="4773" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5136" cy="4773" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5238.598901622115" y="4852.833986408896">ZNF408</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5238.598901622115" y="4852.833986408896">ZNF408</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CAD" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4986" cy="4945" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4986" cy="4945" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4986" cy="4945" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5079.200631480269" y="5035.629147031621">CAD</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5079.200631480269" y="5035.629147031621">CAD</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ACLY" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4819" cy="5100" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4819" cy="5100" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4819" cy="5100" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4901.692474831062" y="5200.3092947154655">ACLY</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4901.692474831062" y="5200.3092947154655">ACLY</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CYP51A1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4748.469621923678" cy="5408.4875641090675" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4748.469621923678" cy="5408.4875641090675" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4748.469621923678" cy="5408.4875641090675" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4819.636490310906" y="5517.277622680404">CYP51A1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4819.636490310906" y="5517.277622680404">CYP51A1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="GPR125" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4437" cy="5349" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4437" cy="5349" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4437" cy="5349" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4495.764073007343" y="5464.960267866143">GPR125</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4495.764073007343" y="5464.960267866143">GPR125</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ARL2BP" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4228" cy="5441" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4228" cy="5441" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4228" cy="5441" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4273.652919668479" y="5562.720215764446">ARL2BP</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4273.652919668479" y="5562.720215764446">ARL2BP</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KPNA2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4010" cy="5509" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4010" cy="5509" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4010" cy="5509" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4041.986906683388" y="5635.003324562601">KPNA2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4041.986906683388" y="5635.003324562601">KPNA2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RP2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3786" cy="5553" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3786" cy="5553" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3786" cy="5553" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3803.936870418951" y="5681.7566257696035">RP2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3803.936870418951" y="5681.7566257696035">RP2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ARL6" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3559" cy="5572" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3559" cy="5572" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3559" cy="5572" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3562.7002376421156" y="5701.947328719723">ARL6</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3562.7002376421156" y="5701.947328719723">ARL6</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IFT140" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3331" cy="5566" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3331" cy="5566" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3331" cy="5566" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3320.401325013891" y="5695.5672338538525">IFT140</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3320.401325013891" y="5695.5672338538525">IFT140</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IFT172" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3104" cy="5535" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3104" cy="5535" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3104" cy="5535" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3079.1684824815843" y="5662.606409469638">IFT172</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3079.1684824815843" y="5662.606409469638">IFT172</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CEP70" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2883" cy="5479" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2883" cy="5479" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2883" cy="5479" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2844.306388210224" y="5603.108035221987">CEP70</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2844.306388210224" y="5603.108035221987">CEP70</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="NEK2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2669" cy="5399" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2669" cy="5399" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2669" cy="5399" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2616.8836818257114" y="5518.096135033662">NEK2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2616.8836818257114" y="5518.096135033662">NEK2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRKAR2B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2465" cy="5296" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2465" cy="5296" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2465" cy="5296" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2400.0903809327347" y="5408.63543559885">PRKAR2B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2400.0903809327347" y="5408.63543559885">PRKAR2B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="OFD1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2274" cy="5172" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2274" cy="5172" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2274" cy="5172" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2197.128160363942" y="5276.836636110513">OFD1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2197.128160363942" y="5276.836636110513">OFD1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KIAA1549" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2098" cy="5027" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2098" cy="5027" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2098" cy="5027" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2010.0791533163163" y="5122.75972388444">KIAA1549</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2010.0791533163163" y="5122.75972388444">KIAA1549</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PPARG" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1938" cy="4863" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1938" cy="4863" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1938" cy="4863" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1840.0485815425407" y="4948.472332495209">PPARG</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1840.0485815425407" y="4948.472332495209">PPARG</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SLC2A4" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1798" cy="4683" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1798" cy="4683" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1798" cy="4683" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1691.252930293413" y="4757.196112492887">SLC2A4</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1691.252930293413" y="4757.196112492887">SLC2A4</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ADIPOR1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1678" cy="4489" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1678" cy="4489" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1678" cy="4489" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1563.746800281891" y="4551.017790626351">ADIPOR1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1563.746800281891" y="4551.017790626351">ADIPOR1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="HK1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1580" cy="4283" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1580" cy="4283" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1580" cy="4283" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1459.6250388615306" y="4332.090413839282">HK1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1459.6250388615306" y="4332.090413839282">HK1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PPARA" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1506" cy="4067" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1506" cy="4067" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1506" cy="4067" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1380.9570242520176" y="4102.556352682601">PPARA</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1380.9570242520176" y="4102.556352682601">PPARA</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="AHR" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1456" cy="3844" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1456" cy="3844" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1456" cy="3844" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1327.8028532703092" y="3865.5752536570517">AHR</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1327.8028532703092" y="3865.5752536570517">AHR</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="GHR" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1430" cy="3617" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1430" cy="3617" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1430" cy="3617" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1300.2071597255967" y="3624.336117058988">GHR</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1300.2071597255967" y="3624.336117058988">GHR</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IL6" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1430" cy="3389" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1430" cy="3389" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1430" cy="3389" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1300.1865019008455" y="3382.038986333813">IL6</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1300.1865019008455" y="3382.038986333813">IL6</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MAF" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1455" cy="3162" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1455" cy="3162" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1455" cy="3162" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1326.7400897290177" y="3140.801051505334">MAF</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1326.7400897290177" y="3140.801051505334">MAF</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KDM6B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1504" cy="2939" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1504" cy="2939" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1504" cy="2939" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1378.8492514562572" y="2903.824864763006">KDM6B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1378.8492514562572" y="2903.824864763006">KDM6B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="DTHD1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1578" cy="2723" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1578" cy="2723" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1578" cy="2723" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1457.4761550603346" y="2674.2762603963993">DTHD1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1457.4761550603346" y="2674.2762603963993">DTHD1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SAMD11" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1675" cy="2517" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1675" cy="2517" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1675" cy="2517" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1560.5468130064744" y="2455.352064211158">SAMD11</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1560.5468130064744" y="2455.352064211158">SAMD11</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CA4" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1794" cy="2322" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1794" cy="2322" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1794" cy="2322" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1687.0247990659389" y="2248.133184818098">CA4</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1687.0247990659389" y="2248.133184818098">CA4</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRDM10" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1934" cy="2142" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1934" cy="2142" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1934" cy="2142" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1835.7852555077632" y="2056.83038121299">PRDM10</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1835.7852555077632" y="2056.83038121299">PRDM10</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SPP2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2093" cy="1978" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2093" cy="1978" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2093" cy="1978" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2004.753276229707" y="1882.5405020764847">SPP2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2004.753276229707" y="1882.5405020764847">SPP2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ARNT" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2269" cy="1832" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2269" cy="1832" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2269" cy="1832" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2191.8050006906055" y="1727.4010894816652">ARNT</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2191.8050006906055" y="1727.4010894816652">ARNT</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="DECR1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2460" cy="1707" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2460" cy="1707" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2460" cy="1707" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2394.773832540377" y="1594.5475786008624">DECR1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2394.773832540377" y="1594.5475786008624">DECR1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="HSP90AA1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2663" cy="1603" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2663" cy="1603" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2663" cy="1603" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2610.522142373044" y="1484.0627288908777">HSP90AA1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2610.522142373044" y="1484.0627288908777">HSP90AA1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MYC" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2877" cy="1523" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2877" cy="1523" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2877" cy="1523" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2837.927967307433" y="1399.0105800430092">MYC</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2837.927967307433" y="1399.0105800430092">MYC</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="NOS3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3098" cy="1466" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3098" cy="1466" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3098" cy="1466" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3072.7943555491056" y="1338.4669631514444">NOS3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3072.7943555491056" y="1338.4669631514444">NOS3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SP1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3324" cy="1434" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3324" cy="1434" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3324" cy="1434" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3312.9654270914157" y="1304.4691611980952">SP1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3312.9654270914157" y="1304.4691611980952">SP1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ENO2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3552" cy="1428" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3552" cy="1428" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3552" cy="1428" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3555.2615213131544" y="1298.0409199835435">ENO2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3555.2615213131544" y="1298.0409199835435">ENO2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ENO3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3780" cy="1446" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3780" cy="1446" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3780" cy="1446" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3797.559119661158" y="1317.1913150570772">ENO3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3797.559119661158" y="1317.1913150570772">ENO3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ENO4" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4004" cy="1489" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4004" cy="1489" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4004" cy="1489" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4035.6033966279674" y="1362.8999392483279">ENO4</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4035.6033966279674" y="1362.8999392483279">ENO4</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PARK2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4222" cy="1557" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4222" cy="1557" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4222" cy="1557" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4267.281569760985" y="1435.1411495213379">PARK2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4267.281569760985" y="1435.1411495213379">PARK2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ENO1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4431" cy="1648" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4431" cy="1648" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4431" cy="1648" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4489.388495674741" y="1531.8501675729115">ENO1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4489.388495674741" y="1531.8501675729115">ENO1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="IDH2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4629" cy="1762" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4629" cy="1762" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4629" cy="1762" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4699.817615828735" y="1652.9822707614328">IDH2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4699.817615828735" y="1652.9822707614328">IDH2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="UBC" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4813" cy="1896" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4813" cy="1896" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4813" cy="1896" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4895.344816628888" y="1795.4051135775042">UBC</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4895.344816628888" y="1795.4051135775042">UBC</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KLHL7" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4982" cy="2050" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4982" cy="2050" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4982" cy="2050" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5074.921609478093" y="1959.0847950450498">KLHL7</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5074.921609478093" y="1959.0847950450498">KLHL7</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPF4" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5132" cy="2222" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5132" cy="2222" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5132" cy="2222" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5234.351823979397" y="2141.8494907808404">PRPF4</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5234.351823979397" y="2141.8494907808404">PRPF4</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PRPF6" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5263" cy="2409" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5263" cy="2409" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5263" cy="2409" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5373.5451580456465" y="2340.5911699218373">PRPF6</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5373.5451580456465" y="2340.5911699218373">PRPF6</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="RANBP2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5372" cy="2610" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5372" cy="2610" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5372" cy="2610" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5489.406623215727" y="2554.1816802019243">RANBP2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5489.406623215727" y="2554.1816802019243">RANBP2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SNRNP200" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5459" cy="2821" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5459" cy="2821" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5459" cy="2821" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5581.831034141581" y="2778.426098937144">SNRNP200</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5581.831034141581" y="2778.426098937144">SNRNP200</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="DHX38" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5521" cy="3040" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5521" cy="3040" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5521" cy="3040" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5647.758023014867" y="3011.148594464701">DHX38</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5647.758023014867" y="3011.148594464701">DHX38</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="XPO1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5560" cy="3266" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5560" cy="3266" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5560" cy="3266" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5689.169322505981" y="3251.3273682201943">XPO1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5689.169322505981" y="3251.3273682201943">XPO1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SIN3A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5988" cy="3500" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5988" cy="3500" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5988" cy="3500" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="6118.0" y="3500.0">SIN3A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="6118.0" y="3500.0">SIN3A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ACAT1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5930" cy="4034" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5930" cy="4034" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5930" cy="4034" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="6056.9703558940655" y="4061.902127591535">ACAT1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="6056.9703558940655" y="4061.902127591535">ACAT1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CH25H" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5758" cy="4544" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5758" cy="4544" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5758" cy="4544" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5875.997985310973" y="4598.557084439617">CH25H</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5875.997985310973" y="4598.557084439617">CH25H</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="FAXDC2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5481" cy="5005" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5481" cy="5005" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5481" cy="5005" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5584.51518049572" y="5083.642274934912">FAXDC2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5584.51518049572" y="5083.642274934912">FAXDC2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="FDFT1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5111" cy="5395" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5111" cy="5395" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5111" cy="5395" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5195.201880264006" y="5494.0456630045255">FDFT1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5195.201880264006" y="5494.0456630045255">FDFT1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="HSD17B7" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4666" cy="5697" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4666" cy="5697" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4666" cy="5697" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4726.94304259465" y="5811.830072538976">HSD17B7</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4726.94304259465" y="5811.830072538976">HSD17B7</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="LSS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4167" cy="5896" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4167" cy="5896" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4167" cy="5896" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4201.863788961462" y="6021.237838608189">LSS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4201.863788961462" y="6021.237838608189">LSS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="MSMO1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3637" cy="5984" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3637" cy="5984" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3637" cy="5984" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3644.159007229166" y="6113.802729614954">MSMO1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3644.159007229166" y="6113.802729614954">MSMO1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SC5D" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3100" cy="5955" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3100" cy="5955" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3100" cy="5955" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3079.0944109904576" y="6083.308052546066">SC5D</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3079.0944109904576" y="6083.308052546066">SC5D</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SQLE" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2582" cy="5812" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2582" cy="5812" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2582" cy="5812" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2534.0257167713958" y="5932.8241207238925">SQLE</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2534.0257167713958" y="5932.8241207238925">SQLE</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="TM7SF2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2106" cy="5560" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2106" cy="5560" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2106" cy="5560" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2033.1429094813448" y="5667.665427882661">TM7SF2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2033.1429094813448" y="5667.665427882661">TM7SF2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="TCOF1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1696" cy="5213" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1696" cy="5213" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1696" cy="5213" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1601.72920104539" y="5302.5154537745275">TCOF1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1601.72920104539" y="5302.5154537745275">TCOF1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SRGAP2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1370" cy="4785" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1370" cy="4785" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1370" cy="4785" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1258.6876332766346" y="4852.15323532372">SRGAP2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1258.6876332766346" y="4852.15323532372">SRGAP2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="SRGAP3" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1144" cy="4298" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1144" cy="4298" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1144" cy="4298" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1020.8712051683842" y="4339.704914378451">SRGAP3</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1020.8712051683842" y="4339.704914378451">SRGAP3</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CDH13" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1027" cy="3773" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1027" cy="3773" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1027" cy="3773" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="897.7849518886528" y="3787.2643381052967">CDH13</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="897.7849518886528" y="3787.2643381052967">CDH13</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="GNPDA1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1027" cy="3235" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1027" cy="3235" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1027" cy="3235" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="897.7400077406619" y="3221.148848383047">GNPDA1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="897.7400077406619" y="3221.148848383047">GNPDA1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CYP8B1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1141" cy="2710" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1141" cy="2710" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1141" cy="2710" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1017.7287730970938" y="2668.717986751464">CYP8B1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1017.7287730970938" y="2668.717986751464">CYP8B1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KDM2A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1366" cy="2221" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1366" cy="2221" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1366" cy="2221" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1254.4936591747683" y="2154.16934868066">KDM2A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1254.4936591747683" y="2154.16934868066">KDM2A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KDM2B" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="1691" cy="1793" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="1691" cy="1793" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="1691" cy="1793" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="1596.449163019709" y="1703.7803876587302">KDM2B</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="1596.449163019709" y="1703.7803876587302">KDM2B</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="EMC1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2100" cy="1444" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2100" cy="1444" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2100" cy="1444" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2026.8310948169515" y="1336.5462363883235">EMC1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2026.8310948169515" y="1336.5462363883235">EMC1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="DHCR7" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="2574" cy="1191" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="2574" cy="1191" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="2574" cy="1191" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="2525.611115964417" y="1070.341324796802">DHCR7</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="2525.611115964417" y="1070.341324796802">DHCR7</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="TSPO" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3092" cy="1046" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3092" cy="1046" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3092" cy="1046" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3070.6789783739773" y="917.7603258081858">TSPO</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3070.6789783739773" y="917.7603258081858">TSPO</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="PYGL" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="3629" cy="1016" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="3629" cy="1016" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="3629" cy="1016" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="3635.7421221979903" y="886.1749493038133">PYGL</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="3635.7421221979903" y="886.1749493038133">PYGL</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KDM6A" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4159" cy="1101" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4159" cy="1101" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4159" cy="1101" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4193.435121110243" y="975.6436182951861">KDM6A</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4193.435121110243" y="975.6436182951861">KDM6A</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="FBXL19" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="4659" cy="1299" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="4659" cy="1299" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="4659" cy="1299" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="4719.57072823861" y="1183.9731036642106">FBXL19</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="4719.57072823861" y="1183.9731036642106">FBXL19</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="UBXN1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5105" cy="1600" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5105" cy="1600" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5105" cy="1600" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5188.890455721928" y="1500.6904262481846">UBXN1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5188.890455721928" y="1500.6904262481846">UBXN1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="CYP4V2" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5476" cy="1989" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5476" cy="1989" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5476" cy="1989" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5579.268001663461" y="1910.0334258534967">CYP4V2</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5579.268001663461" y="1910.0334258534967">CYP4V2</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="KPNA7" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5755" cy="2449" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5755" cy="2449" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5755" cy="2449" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="5872.830492915212" y="2394.0821072931763">KPNA7</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="5872.830492915212" y="2394.0821072931763">KPNA7</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="XRN1" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="5928" cy="2958" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="5928" cy="2958" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="5928" cy="2958" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="6054.877209356744" y="2929.677328059574">XRN1</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="6054.877209356744" y="2929.677328059574">XRN1</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="HCCS" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="6485" cy="3500" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="6485" cy="3500" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="6485" cy="3500" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="6615.0" y="3500.0">HCCS</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="6615.0" y="3500.0">HCCS</text>
+</g>
+<g class="nwnodecontainer" data-action_option="_unassigned" data-exp_height="250" data-exp_width="324" data-payload_text="" data-radius="16" data-safe_div_label="ABCB6" data-x_pos="662" data-y_pos="50" id="node.4433068">
+<circle cx="515" cy="3505" fill="url(#bubble_gradient1)" r="16" />
+<circle cx="515" cy="3505" fill="url(#bubble_gradient2)" opacity="0.33" r="16" />
+<circle class="nwbubblecoloredcircle" cx="515" cy="3505" display="initial" fill="rgb(52,152,219)" r="16" />
+<text font-family="Arial" font-size="40px" fill="white" filter="url(#filter_bg_text)" stroke="white" stroke-width="5" text-anchor="middle" x="385.00018237436007" y="3505.2177551384016">ABCB6</text>
+<text font-size="40px" fill="black" text-anchor="middle" x="385.00018237436007" y="3505.2177551384016">ABCB6</text>
+</g>
+
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2343.850815103471" y2="2278.995230212411" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="5078.521030722614" y2="2920.2731212727485" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4864" y2="2810" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2224" y2="4342" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="1981" y2="3325" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2135" y2="4188" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2064" y2="4025" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4546" y2="2385" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2013" y2="3855" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="5135.669703253586" y2="3107.2826465917387" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="1982" y2="3680" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3397.7495255673234" y2="1821.3800841214672" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="1971" y2="3502" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2012" y2="3150" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2062" y2="2980" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4668" y2="2514" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2132" y2="2816" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2221" y2="2662" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2327" y2="2519" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2584" y2="2275" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2733" y2="2177" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="5169.80990875275" y2="3299.7746987821356" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="2891" y2="2097" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3058" y2="2036" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3231" y2="1995" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3585" y2="1973" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3762" y2="1994" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="3935" y2="2034" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4102" y2="2094" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4775" y2="2656" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4261" y2="2174" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3438.4000071023256" y1="3500.0089188563325" x2="4500.972427797015" y2="2148.1080662503973" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="5029" y2="3500" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="2588" y2="4727" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="5019" y2="3677" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4988" y2="3852" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4937" y2="4023" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4867" y2="4186" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4778" y2="4340" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4672" y2="4482" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4550" y2="4612" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="2452" y2="4613" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4414" y2="4726" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3412" y2="5026" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="2330" y2="4484" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3236" y2="5006" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4265" y2="4824" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3063" y2="4965" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="2896" y2="4905" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="4106" y2="4904" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3939" y2="4964" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3767" y2="5006" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="3590" y2="5026" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3561.6" y1="3500.0" x2="2737" y2="4825" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2452" y1="4613" x2="4819" y2="5100" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2452" y1="4613" x2="4986" y2="4945" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3397.7495255673234" y1="1821.3800841214672" x2="1678" y2="4489" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3397.7495255673234" y1="1821.3800841214672" x2="1580" y2="4283" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3397.7495255673234" y1="1821.3800841214672" x2="1506" y2="4067" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3397.7495255673234" y1="1821.3800841214672" x2="1938" y2="4863" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3397.7495255673234" y1="1821.3800841214672" x2="1798" y2="4683" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4500.972427797015" y1="2148.1080662503973" x2="1456" y2="3844" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4500.972427797015" y1="2148.1080662503973" x2="1430" y2="3617" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4500.972427797015" y1="2148.1080662503973" x2="1430" y2="3389" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4500.972427797015" y1="2148.1080662503973" x2="1504" y2="2939" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4500.972427797015" y1="2148.1080662503973" x2="1455" y2="3162" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2896" y1="4905" x2="5461" y2="4173" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2224" y1="4342" x2="4228" y2="5441" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2224" y1="4342" x2="4010" y2="5509" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2224" y1="4342" x2="3786" y2="5553" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1981" y1="3325" x2="3559" y2="5572" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1981" y1="3325" x2="3331" y2="5566" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1981" y1="3325" x2="3104" y2="5535" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="2269" y2="1832" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="2460" y2="1707" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="2663" y2="1603" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="2877" y2="1523" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="3098" y2="1466" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5078.521030722614" y1="2920.2731212727485" x2="3324" y2="1434" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4775" y1="2656" x2="1794" y2="2322" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2343.850815103471" y1="2278.995230212411" x2="2883" y2="5479" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2343.850815103471" y1="2278.995230212411" x2="2098" y2="5027" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2343.850815103471" y1="2278.995230212411" x2="2669" y2="5399" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2343.850815103471" y1="2278.995230212411" x2="2274" y2="5172" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2343.850815103471" y1="2278.995230212411" x2="2465" y2="5296" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2330" y1="4484" x2="4748.469621923678" y2="5408.4875641090675" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2330" y1="4484" x2="4437" y2="5349" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2737" y1="4825" x2="5375" y2="4384" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5521" y2="3040" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="4982" y2="2050" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5132" y2="2222" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5263" y2="2409" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5372" y2="2610" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5459" y2="2821" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5169.80990875275" y1="3299.7746987821356" x2="5560" y2="3266" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4546" y1="2385" x2="1578" y2="2723" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="4431" y2="1648" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="3552" y2="1428" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="3780" y2="1446" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="4004" y2="1489" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="4629" y2="1762" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="4222" y2="1557" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5135.669703253586" y1="3107.2826465917387" x2="4813" y2="1896" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3412" y1="5026" x2="5573" y2="3500" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3063" y1="4965" x2="5523" y2="3953" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2588" y1="4727" x2="5266" y2="4585" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2588" y1="4727" x2="5136" y2="4773" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4864" y1="2810" x2="1934" y2="2142" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4864" y1="2810" x2="2093" y2="1978" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4668" y1="2514" x2="1675" y2="2517" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3236" y1="5006" x2="5560" y2="3728" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4819" y1="5100" x2="5930" y2="4034" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1678" y1="4489" x2="1027" y2="3773" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="5758" y2="4544" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="5481" y2="5005" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="5111" y2="5395" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="4666" y2="5697" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="4167" y2="5896" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="3637" y2="5984" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="3100" y2="5955" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="2582" y2="5812" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4748.469621923678" y1="5408.4875641090675" x2="2106" y2="5560" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5521" y1="3040" x2="5476" y2="1989" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1506" y1="4067" x2="1141" y2="2710" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3324" y1="1434" x2="2574" y2="1191" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="3324" y1="1434" x2="3092" y2="1046" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1578" y1="2723" x2="2100" y2="1444" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4813" y1="1896" x2="4659" y2="1299" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4813" y1="1896" x2="5105" y2="1600" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1580" y1="4283" x2="1027" y2="3235" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1504" y1="2939" x2="1366" y2="2221" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1504" y1="2939" x2="1691" y2="1793" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4629" y1="1762" x2="4159" y2="1101" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5560" y1="3266" x2="5755" y2="2449" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5560" y1="3266" x2="5928" y2="2958" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="4431" y1="1648" x2="3629" y2="1016" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5560" y1="3728" x2="5988" y2="3500" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2098" y1="5027" x2="1370" y2="4785" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2098" y1="5027" x2="1144" y2="4298" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="2274" y1="5172" x2="1696" y2="5213" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="5476" y1="1989" x2="515" y2="3505" />
+</g>
+<g class="nwlinkwrapper" id="edge.4440022.4432753">
+<line class="nw_edge" id="line.4440022.4432753.1" stroke="#1F294A" stroke-dasharray="none" stroke-opacity="0.7" stroke-width="1.286" style="" x1="1696" y1="5213" x2="6485" y2="3500" />
+</g>
+</svg>
